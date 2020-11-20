@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ed34341-7133-4e5c-80a1-73a0636150b6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/TaskD/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskG/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskA/ProgramPartial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskB/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskB/ProgramPartial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskC/ProgramPartial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskD/ProgramPartial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskE/ProgramPartial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskF/ProgramPartial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskG/ProgramPartial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskF/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskH/ProgramPartial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskA/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskE/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskH/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskC/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ConsoleApp1/Program.cs" />
+        <option value="$PROJECT_DIR$/TaskA/Program.cs" />
+        <option value="$PROJECT_DIR$/TaskB/PrintRange.cs" />
+        <option value="$PROJECT_DIR$/TaskD/Program.cs" />
+        <option value="$PROJECT_DIR$/TaskE/Program.cs" />
+        <option value="$PROJECT_DIR$/TaskG/Program.cs" />
+        <option value="$PROJECT_DIR$/TaskH/Program.cs" />
+        <option value="$PROJECT_DIR$/TaskF/Program.cs" />
+        <option value="$PROJECT_DIR$/TaskB/Program.cs" />
+        <option value="$PROJECT_DIR$/TaskC/Program.cs" />
+        <option value="$PROJECT_DIR$/TaskA/ProgramPartial.cs" />
+        <option value="$PROJECT_DIR$/TaskB/ProgramPartial.cs" />
+        <option value="$PROJECT_DIR$/TaskC/ProgramPartial.cs" />
+        <option value="$PROJECT_DIR$/TaskD/ProgramPartial.cs" />
+        <option value="$PROJECT_DIR$/TaskE/ProgramPartial.cs" />
+        <option value="$PROJECT_DIR$/TaskF/ProgramPartial.cs" />
+        <option value="$PROJECT_DIR$/TaskG/ProgramPartial.cs" />
+        <option value="$PROJECT_DIR$/TaskH/ProgramPartial.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kWa6FQqvNCzLFlIu5zlwT9jEsD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected=".NET Project.TaskG">
+    <configuration name="TaskA" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TaskA/TaskA.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskE" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/TaskE/bin/Debug/netcoreapp3.1/TaskE.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TaskE/bin/Debug/netcoreapp3.1" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TaskE/TaskE.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskF" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/TaskF/bin/Debug/netcoreapp3.1/TaskF.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TaskF/bin/Debug/netcoreapp3.1" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TaskF/TaskF.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskG" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/TaskG/bin/Debug/netcoreapp3.1/TaskG.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TaskG/bin/Debug/netcoreapp3.1" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TaskG/TaskG.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.TaskG" />
+        <item itemvalue=".NET Project.TaskE" />
+        <item itemvalue=".NET Project.TaskF" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ed34341-7133-4e5c-80a1-73a0636150b6" name="Default Changelist" comment="" />
+      <created>1605818624882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605818624882</updated>
+      <workItem from="1605818628757" duration="2638000" />
+      <workItem from="1605821512419" duration="5481000" />
+      <workItem from="1605897544425" duration="1413000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="1638" height="276" key="GridCell.Tab.0.bottom" timestamp="1605906168675">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="276" key="GridCell.Tab.0.bottom/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1605906168675" />
+    <state width="1638" height="276" key="GridCell.Tab.0.center" timestamp="1605906168671">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="276" key="GridCell.Tab.0.center/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1605906168671" />
+    <state width="1638" height="276" key="GridCell.Tab.0.left" timestamp="1605906168670">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="276" key="GridCell.Tab.0.left/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1605906168670" />
+    <state width="1638" height="276" key="GridCell.Tab.0.right" timestamp="1605906168674">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="276" key="GridCell.Tab.0.right/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1605906168674" />
+    <state x="440" y="261" key="Rider.ProjectTemplateDialog.Size" timestamp="1605818750720">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="261" key="Rider.ProjectTemplateDialog.Size/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1605818750720" />
+  </component>
+</project>
